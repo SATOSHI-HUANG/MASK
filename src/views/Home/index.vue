@@ -37,7 +37,7 @@
       </div>
       <div class="note">
         <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
-        <span>{{ item.properties.custom_note }}</span>
+        <span>{{ item.properties.note }}</span>
       </div>
     </div>
   </div>
